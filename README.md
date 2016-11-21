@@ -18,4 +18,5 @@ Coleção de arquivos sobre empresas, blogueiros e outras coisas da região do V
 | Guichê Virtual |  http://www.guichevirtual.com.br |         |
 | Compsis        |     http://www.compsisnet.com.br |         |
 | Atech          |         http://www.atech.com.br/ |         |
-
+| Lean Survey    |        http://leansurvey.com.br/ |         |
+| Focusnetworks  |     http://focusnetworks.com.br/ |         |
