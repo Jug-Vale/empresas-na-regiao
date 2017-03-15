@@ -12,8 +12,8 @@ Coleção de arquivos sobre empresas, blogueiros e outras coisas da região do V
 | Compsis        |     http://www.compsisnet.com.br |         |
 | FITEC          |          http://www.fitec.org.br |         |
 | Focusnetworks  |     http://focusnetworks.com.br/ |         |
-| GSW            |                http://gsw.com.br |         |
 | Gauge          |              http://gauge.com.br |         |
+| GSW            |                http://gsw.com.br |         |
 | Guichê Virtual |  http://www.guichevirtual.com.br |         |
 | Infracommerce  |         www.infracommerce.com.br |         |
 | JetSoft        | http://www.jetstreamsoftware.com |         |
