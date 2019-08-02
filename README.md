@@ -11,6 +11,7 @@ Coleção de arquivos sobre empresas, blogueiros e outras coisas da região do V
 | Atech          |         http://www.atech.com.br/ |         |
 | Compsis        |     http://www.compsisnet.com.br |         |
 | Designa        |        http://www.designa.com.br |         |
+| Exedio         |        https://www.exedio.com.br |         |
 | FITEC          |          http://www.fitec.org.br |         |
 | Focusnetworks  |     http://focusnetworks.com.br/ |         |
 | Gauge          |              http://gauge.com.br |         |
