@@ -22,6 +22,8 @@ Coleção de arquivos sobre empresas, blogueiros e outras coisas da região do V
 | Justto         |     https://justto.com.br/       |         |
 | Lean Survey    |        http://leansurvey.com.br/ |         |
 | Mult-e         |         http://www.mult-e.com.br |         |
+| Prima          |        https://www.sophia.com.br |         |
+| Quero          |        https://querobolsa.com.br |         |
 | RH Master      |       http://www.rhmaster.com.br |         ||
 | Simova         |         http://www.simova.com.br |         |
 | Touch Health   |        http://touchhealth.com.br |         |
