@@ -8,6 +8,7 @@ Coleção de arquivos sobre empresas, blogueiros e outras coisas da região do V
 |     Empresa    |               Link               | Contato |
 |:--------------:|:--------------------------------:|:-------:|
 | 1º Oficial de Registro de Imóveis |     https://www.1risjc.com.br/seguro.jsp | |
+| Adyen          |      https://www.adyen.com/pt_BR |         |
 | Atech          |         http://www.atech.com.br/ |         |
 | Compsis        |     http://www.compsisnet.com.br |         |
 | Designa        |        http://www.designa.com.br |         |
